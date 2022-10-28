@@ -1,0 +1,6 @@
+本次作业在本地使用vscode+python3.10.0完成
+
+本次作业分为三部分：
+1.主程序是*_test.py形式的文件
+2.要补充的函数直接填写在classifiers下的子文件中
+3.需要回答的问题：整合在inline_questions.txt中
